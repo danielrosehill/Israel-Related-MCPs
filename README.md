@@ -2,7 +2,7 @@
 
 A curated list of Model Context Protocol (MCP) servers that provide access to Israeli data sources, government APIs, and services relevant to those living in or interested in Israel.
 
-*Last updated: 2025-11-15*
+*Last updated: 2026-01-13*
 
 ## Related Projects
 
@@ -47,6 +47,27 @@ Access to Israeli economic data from the Central Bureau of Statistics (CBS)
 **Language:** Typescript
 
 **Author:** [reuvenaor](https://github.com/reuvenaor)
+
+---
+
+## [Israeli CBS MCP Server](https://github.com/amirrosi/israeli-cbs-mcp)
+
+![GitHub stars](https://img.shields.io/github/stars/amirrosi/israeli-cbs-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/amirrosi/israeli-cbs-mcp)
+
+MCP server providing access to statistical data from the Israeli Central Bureau of Statistics (CBS)
+
+**Features:**
+- Hierarchical exploration of CBS topics
+- Time-series data retrieval with filtering
+- Statistical series (unemployment, GDP, etc.)
+- Price indices (CPI, construction costs)
+- Local cache (~20MB) with automatic indexing
+
+**Data Sources:** Israeli Central Bureau of Statistics (CBS) official APIs
+
+**Language:** Typescript
+
+**Author:** [amirrosi](https://github.com/amirrosi)
 
 ---
 
@@ -138,6 +159,20 @@ MCP server providing access to Israel's government public data platform (data.go
 **Data Sources:** data.gov.il
 
 **Author:** [aviveldan](https://github.com/aviveldan)
+
+---
+
+## [Israel GovData MCP](https://github.com/ytzlax/israel-govdata-mcp)
+
+![GitHub stars](https://img.shields.io/github/stars/ytzlax/israel-govdata-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ytzlax/israel-govdata-mcp)
+
+MCP server for accessing Israeli government data
+
+*Early stage project - minimal implementation currently available*
+
+**Data Sources:** Israeli government data
+
+**Author:** [ytzlax](https://github.com/ytzlax)
 
 ---
 
@@ -335,6 +370,7 @@ Unknown purpose - requires investigation
 
 Alphabetical list of contributors who have created Israel-related MCP servers:
 
+- [amirrosi](https://github.com/amirrosi)
 - [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
 - [GuyKh](https://github.com/GuyKh)
 - [MaorEi](https://github.com/MaorEi)
@@ -348,6 +384,7 @@ Alphabetical list of contributors who have created Israel-related MCP servers:
 - [reuvenaor](https://github.com/reuvenaor)
 - [shlomiuziel](https://github.com/shlomiuziel)
 - [yoni-j](https://github.com/yoni-j)
+- [ytzlax](https://github.com/ytzlax)
 - [zohar](https://github.com/zohar)
 
 # Contributing
@@ -376,6 +413,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2025-11-15*
+*Last updated: 2026-01-13*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)
