@@ -676,6 +676,22 @@ MCP server enabling AI agents to guide users towards miklatim tziburim (public s
 
 ---
 
+## [Pikud HaOref Alerts](https://github.com/yaniv-golan/pikud-haoref-alerts)
+
+![GitHub stars](https://img.shields.io/github/stars/yaniv-golan/pikud-haoref-alerts?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/yaniv-golan/pikud-haoref-alerts)
+
+MCP server providing live Pikud HaOref alert data to AI assistants
+
+**Features:**
+- Real-time alert data from Home Front Command
+- Live alert feed for AI agents
+
+**Data Sources:** Pikud HaOref (Home Front Command)
+
+**Author:** [yaniv-golan](https://github.com/yaniv-golan)
+
+---
+
 ## [Red Alert MCP Server](https://github.com/ozba/redalert-mcp-server)
 
 ![GitHub stars](https://img.shields.io/github/stars/ozba/redalert-mcp-server?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ozba/redalert-mcp-server)
@@ -848,6 +864,7 @@ Alphabetical list of contributors who have created Israel-related AI agents, ski
 - [Simtob-Eran](https://github.com/Simtob-Eran)
 - [skills-il](https://github.com/skills-il)
 - [tomron](https://github.com/tomron)
+- [yaniv-golan](https://github.com/yaniv-golan)
 - [yoni-j](https://github.com/yoni-j)
 - [zohar](https://github.com/zohar)
 

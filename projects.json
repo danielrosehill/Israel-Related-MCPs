@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-04-01",
-    "total_projects": 21,
+    "last_updated": "2026-04-05",
+    "total_projects": 23,
     "description": "Index of Israel-related MCP servers"
   },
   "projects": [
@@ -386,6 +386,44 @@
       "language": "geojson",
       "status": "active",
       "notes": "Data pipeline companion to Miklat MCP. Currently populated with Jerusalem shelter data."
+    },
+    {
+      "id": "pikud-haoref-alerts",
+      "name": "Pikud HaOref Alerts",
+      "repository": "https://github.com/yaniv-golan/pikud-haoref-alerts",
+      "author": "yaniv-golan",
+      "author_url": "https://github.com/yaniv-golan",
+      "category": "safety-emergency",
+      "description": "MCP server providing live Pikud HaOref alert data to AI assistants",
+      "features": [
+        "Real-time alert data from Home Front Command",
+        "Live alert feed for AI agents"
+      ],
+      "data_sources": [
+        "Pikud HaOref (Home Front Command)"
+      ],
+      "language": "unknown",
+      "status": "active"
+    },
+    {
+      "id": "redalert-mcp-server",
+      "name": "RedAlert MCP Server",
+      "repository": "https://github.com/ozba/redalert-mcp-server",
+      "author": "ozba",
+      "author_url": "https://github.com/ozba",
+      "category": "safety-emergency",
+      "description": "MCP server exposing real-time Israeli Red Alert data, statistics, shelter search, and city data to AI agents",
+      "features": [
+        "Real-time red alert data",
+        "Alert statistics",
+        "Shelter search",
+        "City data lookup"
+      ],
+      "data_sources": [
+        "Pikud HaOref (Home Front Command)"
+      ],
+      "language": "unknown",
+      "status": "active"
     }
   ],
   "categories": {
