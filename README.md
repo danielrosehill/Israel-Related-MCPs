@@ -12,6 +12,7 @@ A curated list of AI agents, agent skills, and Model Context Protocol (MCP) serv
 - [Agent Skills](#agent-skills)
 - [Agent Skills & Frameworks](#agent-skills--frameworks)
 - [Curated Lists](#curated-lists)
+- [Hebrew Language Resources](#hebrew-language-resources)
 - [Economics & Statistics](#economics--statistics)
 - [Finance & Banking](#finance--banking)
 - [Government & Open Data](#government--open-data)
@@ -144,87 +145,32 @@ AI agent skill for Israeli movie showtimes, ratings, and cinema info from seret.
 
 ---
 
-## [Skills IL — Accounting](https://github.com/skills-il/accounting)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/accounting?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/accounting)
-
-AI agent skills for Israeli accounting, bookkeeping, and financial management
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
-## [Skills IL — Communication](https://github.com/skills-il/communication)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/communication?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/communication)
-
-AI agent skills for SMS, email, and customer communication in Israel
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
-## [Skills IL — Developer Tools](https://github.com/skills-il/developer-tools)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/developer-tools?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/developer-tools)
-
-AI agent development utilities with Israeli adaptations
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
-## [Skills IL — Government Services](https://github.com/skills-il/government-services)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/government-services?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/government-services)
-
-AI agent skills for Israeli government APIs and digital services
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
-## [Skills IL — Security & Compliance](https://github.com/skills-il/security-compliance)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/security-compliance?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/security-compliance)
-
-AI agent skills for Israeli privacy law, GDPR, and regulatory compliance
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
-## [Skills IL — Tax & Finance](https://github.com/skills-il/tax-and-finance)
-
-![GitHub stars](https://img.shields.io/github/stars/skills-il/tax-and-finance?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/tax-and-finance)
-
-AI agent skills for Israeli tax, invoicing, VAT, and financial systems
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
-
 # Agent Skills & Frameworks
 
 Organizations and projects providing collections of Israel-focused AI agent skills and MCP servers
 
 ## [Skills IL](https://github.com/skills-il)
 
-![GitHub stars](https://img.shields.io/github/stars/skills-il/mcps?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/mcps)
+![Skills](https://img.shields.io/badge/skills-127-blue) ![Categories](https://img.shields.io/badge/categories-12-green) ![Website](https://img.shields.io/badge/website-agentskills.co.il-orange)
 
-An open-source organization offering a suite of AI agent skills and MCP servers tailored for the Israeli market. Includes repositories covering tax & finance, government services, localization (Hebrew/RTL), security & compliance, communication, health services, legal tech, education, accounting, food & dining, and more.
+Curated AI agent skills for Israeli developers — an open-source collection of [Agent Skills](https://docs.anthropic.com/en/docs/build-with-claude/skills) built for Israeli-specific needs (tax compliance, Hebrew localization, government APIs, and more). Each skill follows the open Agent Skills standard and works across Claude Code, Cursor, GitHub Copilot, Windsurf, OpenCode, Codex, and other AI coding agents.
 
-**Key Repositories:**
-- [skills-il/mcps](https://github.com/skills-il/mcps) — Collection of MCP servers for Israeli data sources and APIs
-- [skills-il/tax-and-finance](https://github.com/skills-il/tax-and-finance) — Israeli tax, invoicing, VAT, and financial systems
-- [skills-il/government-services](https://github.com/skills-il/government-services) — Israeli government APIs and digital services
-- [skills-il/localization](https://github.com/skills-il/localization) — Hebrew, RTL, translation, and cultural adaptation
-- [skills-il/security-compliance](https://github.com/skills-il/security-compliance) — Israeli privacy law, GDPR, and regulatory compliance
-- [skills-il/legal-tech](https://github.com/skills-il/legal-tech) — Legal tech for the Israeli market
-- [skills-il/accounting](https://github.com/skills-il/accounting) — Israeli accounting and bookkeeping
-- [skills-il/health-services](https://github.com/skills-il/health-services) — Israeli health services and pharmacy
+| Category | Skills | Description | Repo |
+|----------|--------|-------------|------|
+| Tax & Finance | 19 | Invoices, income tax, VAT, payments, stock analysis, startup finance | [tax-and-finance](https://github.com/skills-il/tax-and-finance) |
+| Government Services | 18 | Population Authority, National Insurance, Knesset, gov APIs | [government-services](https://github.com/skills-il/government-services) |
+| Localization | 17 | Hebrew RTL, i18n, accessibility, document generation, design systems | [localization](https://github.com/skills-il/localization) |
+| Developer Tools | 15 | ID validation, date conversion, Israeli dev utilities | [developer-tools](https://github.com/skills-il/developer-tools) |
+| Accounting | 14 | Bookkeeping, bank reconciliation, expense management, financial reporting | [accounting](https://github.com/skills-il/accounting) |
+| Marketing & Growth | 9 | Hebrew SEO, product launch, LinkedIn strategy, content marketing | [marketing-growth](https://github.com/skills-il/marketing-growth) |
+| Communication | 8 | SMS, email, WhatsApp automation, Monday.com workflows | [communication](https://github.com/skills-il/communication) |
+| Health Services | 7 | HMO navigation, patient rights, health insurance, telemedicine | [health-services](https://github.com/skills-il/health-services) |
+| Security & Compliance | 7 | Privacy law, cyber regulations, e-commerce compliance | [security-compliance](https://github.com/skills-il/security-compliance) |
+| Food & Dining | 6 | Kashrut, supermarket prices, restaurant operations, food compliance | [food-and-dining](https://github.com/skills-il/food-and-dining) |
+| Education | 4 | Bagrut exams, academia, online learning | [education](https://github.com/skills-il/education) |
+| Legal Tech | 3 | Employment contracts, labor law, regulatory compliance | [legal-tech](https://github.com/skills-il/legal-tech) |
 
-**CLI:** `npx skills` via [skills-il/skills-il-cli](https://github.com/skills-il/skills-il-cli)
+**Website:** [agentskills.co.il](https://agentskills.co.il) · **Built by:** [YooTech](https://yootech.io/) · **CLI:** `npx skills` via [skills-il-cli](https://github.com/skills-il/skills-il-cli)
 
 **Author:** [skills-il](https://github.com/skills-il)
 
@@ -241,6 +187,82 @@ Community-maintained collections of Israeli AI agent resources
 A curated list of Agent Skills for navigating life in Israel
 
 **Author:** [alexpolonsky](https://github.com/alexpolonsky)
+
+*Maintained by Alex Polonsky, also the author of the OnTopo Skill listed above.*
+
+---
+
+## [Useful AI Agent Skills — Israel-Specific](https://github.com/danielrosehill/Useful-AI-Agent-Skills#13-israel-specific)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Useful-AI-Agent-Skills?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Useful-AI-Agent-Skills)
+
+A broader catalogue of useful AI agent skills with a dedicated Israel-specific section.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+# Hebrew Language Resources
+
+Indexes and resource lists focused on Hebrew-language AI models, tooling, and evaluations — adjacent to the Israel-specific agent and MCP ecosystem.
+
+## [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hebrew-AI-Models?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-AI-Models)
+
+Index of AI/LLM models with Hebrew language support.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hebrew-Language-Projects-Index?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Language-Projects-Index)
+
+A broad index of Hebrew language projects across the AI/NLP ecosystem.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Translation?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/English-Hebrew-Translation)
+
+Resources, tools, and notes on English ↔ Hebrew translation workflows.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hebrew-Calendar-Resources?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Calendar-Resources)
+
+Resources for working with the Hebrew calendar (Jewish/Israeli date systems).
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hebrew-TTS-Providers?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-TTS-Providers)
+
+Index of text-to-speech providers and engines supporting Hebrew.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hebrew-Image-Generation-Eval?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Image-Generation-Eval)
+
+Evaluation of image generation models on their ability to render Hebrew text.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
 
 ---
 
