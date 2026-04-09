@@ -1,0 +1,193 @@
+{
+  "date": "09042026",
+  "title": "Israeli AI Ecosystem",
+  "sections": [
+    {
+      "name": "AI Agents",
+      "type": "projects",
+      "format": "table",
+      "description": "Autonomous AI agents built for Israeli use cases."
+    },
+    {
+      "name": "Agent Skills",
+      "type": "projects",
+      "format": "table",
+      "description": "Individual AI agent skills for Israeli services and data."
+    },
+    {
+      "name": "Agent Skills & Frameworks",
+      "type": "projects",
+      "format": "mixed",
+      "description": "Organizations and projects providing collections of Israel-focused AI agent skills and MCP servers."
+    },
+    {
+      "name": "Curated Lists",
+      "type": "projects",
+      "format": "table",
+      "description": "Community-maintained collections of Israeli AI agent resources.",
+      "subsections": ["External ecosystem maps"]
+    },
+    {
+      "name": "Communities & Organizations",
+      "type": "ecosystem",
+      "format": "list",
+      "subsections": ["Meetups", "Facebook Groups"]
+    },
+    {
+      "name": "Government Bodies",
+      "type": "ecosystem",
+      "format": "list"
+    },
+    {
+      "name": "Centers of Excellence",
+      "type": "ecosystem",
+      "format": "list"
+    },
+    {
+      "name": "Research Organizations",
+      "type": "ecosystem",
+      "format": "list",
+      "status": "placeholder"
+    },
+    {
+      "name": "Education",
+      "type": "ecosystem",
+      "format": "list",
+      "subsections": ["CPD", "Postgraduate", "Courses"],
+      "status": "placeholder"
+    },
+    {
+      "name": "AI Jobs",
+      "type": "ecosystem",
+      "format": "list",
+      "status": "placeholder"
+    },
+    {
+      "name": "AI-Focused VCs & Financing",
+      "type": "ecosystem",
+      "format": "list",
+      "status": "placeholder"
+    },
+    {
+      "name": "Conferences & Events",
+      "type": "ecosystem",
+      "format": "list"
+    },
+    {
+      "name": "Inference Providers & Local Clouds",
+      "type": "ecosystem",
+      "format": "list"
+    },
+    {
+      "name": "Startup Ecosystem",
+      "type": "ecosystem",
+      "format": "list"
+    },
+    {
+      "name": "Hebrew Language Resources",
+      "type": "language",
+      "format": "mixed",
+      "subsections": ["External Resources", "Indexes"]
+    },
+    {
+      "name": "Economics & Statistics",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Finance & Banking",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Government & Open Data",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Government Services",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Healthcare & Medical",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Insurance",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Legal",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Library & Archives",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Real Estate & Land",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Safety & Emergency",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Shopping & Retail",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Transportation",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Weather & Environment",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Careers & Jobs",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Dashboards",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Plugins",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Voice Agents",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Other Projects",
+      "type": "domain",
+      "format": "table"
+    },
+    {
+      "name": "Contributing",
+      "type": "meta",
+      "format": "prose"
+    },
+    {
+      "name": "Disclaimer",
+      "type": "meta",
+      "format": "prose"
+    }
+  ]
+}
