@@ -18,10 +18,9 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 ### 🤖 Projects
 
-- [AI Agents](#ai-agents)
+- [AI Agents →](agents.md)
 - [Agent Skills →](agent-skills.md)
 - [MCP Servers →](mcps.md)
-- [Skills & Frameworks](#agent-skills--frameworks)
 - [Curated Lists](#curated-lists)
 
 </td>
@@ -30,6 +29,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 ### 🌐 Ecosystem
 
 - [Communities](#communities--organizations)
+- [Meetups](#meetups)
 - [Government Bodies](#government-bodies)
 - [Centers of Excellence](#centers-of-excellence)
 - [Conferences](#conferences--events)
@@ -41,13 +41,10 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 ### 🇮🇱 Hebrew & Language
 
-- [Overview](#hebrew-language-resources)
-- [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models)
-- [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
-- [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers)
-- [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation)
-- [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources)
-- [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval)
+- [Hebrew Resources →](hebrew.md)
+- [Hebrew LLM Models](hebrew.md#hebrew-llm-models)
+- [Hebrew TTS Providers](hebrew.md#hebrew-tts-providers)
+- [Related Indexes](#related-indexes)
 
 </td>
 <td valign="top" width="25%">
@@ -75,49 +72,13 @@ Domain-specific MCP servers and tools are listed in [**mcps.md**](mcps.md):
 </tr>
 </table>
 
-# AI Agents
+# Projects
 
-Autonomous AI agents built for Israeli use cases.
+This repo's project listings live on dedicated pages:
 
-| Project | Description | Stars |
-|---|---|---|
-| [Claudi](https://github.com/itaisabi-collab/claudi) | ClaudioSabi — Israeli AI agent on Moltbook | ![](https://img.shields.io/github/stars/itaisabi-collab/claudi?style=social) |
-| [Nachla Agent](https://github.com/Ofir-Metis/nachla-agent) | AI agent for בדיקת התכנות נחלות — feasibility studies for Israeli agricultural settlements | ![](https://img.shields.io/github/stars/Ofir-Metis/nachla-agent?style=social) |
-| [News Agent](https://github.com/eyalban/News-Agent) | Daily Hebrew security briefing agent for the Iran-Israel conflict, automated via GitHub Actions | ![](https://img.shields.io/github/stars/eyalban/News-Agent?style=social) |
-| [OlehAssist Agent](https://github.com/abernatkunin/OlehAssistAgent) | Chatbot to assist new Israeli immigrants (olim) with bureaucratic issues after making Aliyah | ![](https://img.shields.io/github/stars/abernatkunin/OlehAssistAgent?style=social) |
-
-
-
-# Agent Skills & Frameworks
-
-Organizations and projects providing collections of Israel-focused AI agent skills and MCP servers
-
-## [Skills IL](https://github.com/skills-il)
-
-![Skills](https://img.shields.io/badge/skills-127-blue) ![Categories](https://img.shields.io/badge/categories-12-green) ![Website](https://img.shields.io/badge/website-agentskills.co.il-orange)
-
-Curated AI agent skills for Israeli developers — an open-source collection of [Agent Skills](https://docs.anthropic.com/en/docs/build-with-claude/skills) built for Israeli-specific needs (tax compliance, Hebrew localization, government APIs, and more). Each skill follows the open Agent Skills standard and works across Claude Code, Cursor, GitHub Copilot, Windsurf, OpenCode, Codex, and other AI coding agents.
-
-| Category | Skills | Description | Repo |
-|----------|--------|-------------|------|
-| Tax & Finance | 19 | Invoices, income tax, VAT, payments, stock analysis, startup finance | [tax-and-finance](https://github.com/skills-il/tax-and-finance) |
-| Government Services | 18 | Population Authority, National Insurance, Knesset, gov APIs | [government-services](https://github.com/skills-il/government-services) |
-| Localization | 17 | Hebrew RTL, i18n, accessibility, document generation, design systems | [localization](https://github.com/skills-il/localization) |
-| Developer Tools | 15 | ID validation, date conversion, Israeli dev utilities | [developer-tools](https://github.com/skills-il/developer-tools) |
-| Accounting | 14 | Bookkeeping, bank reconciliation, expense management, financial reporting | [accounting](https://github.com/skills-il/accounting) |
-| Marketing & Growth | 9 | Hebrew SEO, product launch, LinkedIn strategy, content marketing | [marketing-growth](https://github.com/skills-il/marketing-growth) |
-| Communication | 8 | SMS, email, WhatsApp automation, Monday.com workflows | [communication](https://github.com/skills-il/communication) |
-| Health Services | 7 | HMO navigation, patient rights, health insurance, telemedicine | [health-services](https://github.com/skills-il/health-services) |
-| Security & Compliance | 7 | Privacy law, cyber regulations, e-commerce compliance | [security-compliance](https://github.com/skills-il/security-compliance) |
-| Food & Dining | 6 | Kashrut, supermarket prices, restaurant operations, food compliance | [food-and-dining](https://github.com/skills-il/food-and-dining) |
-| Education | 4 | Bagrut exams, academia, online learning | [education](https://github.com/skills-il/education) |
-| Legal Tech | 3 | Employment contracts, labor law, regulatory compliance | [legal-tech](https://github.com/skills-il/legal-tech) |
-
-**Website:** [agentskills.co.il](https://agentskills.co.il) · **Built by:** [YooTech](https://yootech.io/) · **CLI:** `npx skills` via [skills-il-cli](https://github.com/skills-il/skills-il-cli)
-
-**Author:** [skills-il](https://github.com/skills-il)
-
----
+- **[AI Agents →](agents.md)** — Autonomous AI agents built for Israeli use cases.
+- **[Agent Skills →](agent-skills.md)** — Israel-focused AI agent skills and skill collections.
+- **[MCP Servers →](mcps.md)** — Model Context Protocol servers for Israeli domains.
 
 # Curated Lists
 
@@ -139,26 +100,30 @@ Community-maintained collections of Israeli AI agent resources.
 
 Israeli AI communities, professional associations, and organizations supporting the local AI ecosystem.
 
-- [AI Israel (aiisrael.org.il)](https://aiisrael.org.il/) — Israeli AI community organization.
-- [The Institute AI (theinstituteai.org.il)](https://www.theinstituteai.org.il/en/) — Israeli institute for AI research and policy.
-- [Agent Skills IL (agentskills.co.il)](https://agentskills.co.il/en) — Companion website to the Skills IL open-source project.
-- [Machine Learning Israel (machinelearning.co.il)](https://machinelearning.co.il/) — Israeli machine learning community.
-- [Israeli Association for Artificial Intelligence (iaai.org.il)](https://iaai.org.il/) — Professional association for AI practitioners and researchers in Israel.
-- [Ivrit.ai](https://www.ivrit.ai/en/ivrit-ai-2/) — Open Hebrew speech and language datasets for AI research.
-- [Dicta / DictaLM](https://dicta.org.il/dicta-lm) — Hebrew NLP research center and open-source Hebrew LLMs.
-- [Data-IL](https://data-il.org/en/) — Israeli data science and AI community.
+| Organization | Description |
+|---|---|
+| [AI Israel](https://aiisrael.org.il/) | Israeli AI community organization. |
+| [The Institute AI](https://www.theinstituteai.org.il/en/) | Israeli institute for AI research and policy. |
+| [Agent Skills IL](https://agentskills.co.il/en) | Companion website to the Skills IL open-source project. |
+| [Machine Learning Israel](https://machinelearning.co.il/) | Israeli machine learning community. |
+| [Israeli Association for Artificial Intelligence](https://iaai.org.il/) | Professional association for AI practitioners and researchers in Israel. |
+| [Ivrit.ai](https://www.ivrit.ai/en/ivrit-ai-2/) | Open Hebrew speech and language datasets for AI research. |
+| [Dicta / DictaLM](https://dicta.org.il/dicta-lm) | Hebrew NLP research center and open-source Hebrew LLMs. |
+| [Data-IL](https://data-il.org/en/) | Israeli data science and AI community. |
 
 ## Meetups
 
 In-person and hybrid AI/ML meetup groups across Israel.
 
-- [Artificial Intelligence Israel](https://www.meetup.com/artificial-intelligence-israel/) — General AI meetup group in Israel.
-- [Generative AI Israel](https://www.meetup.com/generative-ai-israel/) — Meetup focused on generative AI.
-- [Tel Aviv-Yafo Agentic AI Meetup Group](https://www.meetup.com/tel-aviv-yafo-agentic-ai-meetup-group/) — Tel Aviv meetup on agentic AI.
-- [DataTalks JLM — Machine & Deep Learning in the Holy City](https://www.meetup.com/datatalks-jlm-machine-and-deep-learning-in-the-holy-city/) — Jerusalem-based ML/DL meetup. ([LinkedIn](https://il.linkedin.com/company/datatalks-jlm))
-- [Prompt Practices TLV](https://www.meetup.com/prompt-practices-tlv) — Tel Aviv meetup on prompt engineering practices.
-- [Computer Vision Israel Meetup](https://www.meetup.com/Computer-Vision-Israel-Meetup) — Computer vision community meetup.
-- [Responsible AI TLV](https://www.meetup.com/responsible-ai-tlv) — Tel Aviv meetup on responsible and ethical AI.
+| Meetup | Location / Focus |
+|---|---|
+| [Artificial Intelligence Israel](https://www.meetup.com/artificial-intelligence-israel/) | General AI meetup group in Israel. |
+| [Generative AI Israel](https://www.meetup.com/generative-ai-israel/) | Generative AI. |
+| [Tel Aviv-Yafo Agentic AI Meetup Group](https://www.meetup.com/tel-aviv-yafo-agentic-ai-meetup-group/) | Tel Aviv — agentic AI. |
+| [DataTalks JLM](https://www.meetup.com/datatalks-jlm-machine-and-deep-learning-in-the-holy-city/) | Jerusalem ML/DL meetup. ([LinkedIn](https://il.linkedin.com/company/datatalks-jlm)) |
+| [Prompt Practices TLV](https://www.meetup.com/prompt-practices-tlv) | Tel Aviv — prompt engineering practices. |
+| [Computer Vision Israel Meetup](https://www.meetup.com/Computer-Vision-Israel-Meetup) | Computer vision community. |
+| [Responsible AI TLV](https://www.meetup.com/responsible-ai-tlv) | Tel Aviv — responsible and ethical AI. |
 
 ## Facebook Groups
 
@@ -220,44 +185,28 @@ Directories and databases tracking the Israeli AI startup ecosystem.
 
 # Hebrew Language Resources
 
-Indexes and resource lists focused on Hebrew-language AI models, tooling, and evaluations — adjacent to the Israel-specific agent and MCP ecosystem.
+Hebrew-language AI models, TTS providers, and related indexes live on a dedicated page: **[hebrew.md →](hebrew.md)**
 
-## External Resources
+# Related Indexes
 
-- [Dicta (dicta.org.il)](https://dicta.org.il/) — Israeli center for the analysis of Hebrew texts; open-source Hebrew NLP models, datasets, and tools (including DictaLM and OCR for Hebrew).
-- [Open Hebrew LLM Leaderboard (Hugging Face)](https://huggingface.co/blog/leaderboard-hebrew) — Community leaderboard evaluating LLMs on Hebrew language tasks.
-- [RubyBot (rubybot.co.il)](https://rubybot.co.il/) — Hebrew-native AI chatbot.
-- [PolyLM (polylm.com)](https://www.polylm.com/) — Hebrew-native AI assistant / LLM product.
+Adjacent indexes maintained alongside this repo:
 
-## Indexes
-
-| Project | Description | Stars |
-|---|---|---|
-| [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Index of AI/LLM models with Hebrew language support. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-AI-Models?style=social) |
-| [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | A broad index of Hebrew language projects across the AI/NLP ecosystem. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Language-Projects-Index?style=social) |
-| [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation) | Resources, tools, and notes on English ↔ Hebrew translation workflows. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Translation?style=social) |
-| [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Resources for working with the Hebrew calendar (Jewish/Israeli date systems). | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Calendar-Resources?style=social) |
-| [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-TTS-Providers?style=social) |
-| [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on their ability to render Hebrew text. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Image-Generation-Eval?style=social) |
-
+| Index | Description |
+|---|---|
+| [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Index of AI/LLM models with Hebrew language support. |
+| [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | Broad index of Hebrew language projects across the AI/NLP ecosystem. |
+| [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. |
+| [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation) | Resources for English ↔ Hebrew translation workflows. |
+| [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Working with the Hebrew calendar. |
+| [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on Hebrew text. |
+| [Claude Israel](https://github.com/danielrosehill/Claude-Israel) | Index of Claude / Claude Code projects with an Israel focus. |
 
 # Contributing
 
-Anyone is welcome to open a pull request to add an Israel-related AI agent, skill, or MCP server to this list.
+Contributions welcome — either:
 
-To add a new project:
-1. Fork this repository
-2. Add your project to `projects.json` using the update script:
-   ```bash
-   ./update-projects.py --add https://github.com/username/repo --category category-name
-   ```
-3. Run the README generator:
-   ```bash
-   ./generate-readme.py
-   ```
-4. Submit a pull request
-
-Alternatively, drop me a line at public@danielrosehill.com if you'd like me to add it manually.
+- Open a **pull request** against this repo, or
+- Email **public@danielrosehill.com** and I'll add it manually.
 
 # Disclaimer
 
