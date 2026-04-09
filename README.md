@@ -2,7 +2,7 @@
 
 A curated list of AI agents, agent skills, and Model Context Protocol (MCP) servers relevant to Israel — covering government data, finance, healthcare, real estate, safety, and more.
 
-*Last updated: 2026-04-05*
+*Last updated: 2026-04-09*
 
 ## Table of Contents
 
@@ -14,6 +14,8 @@ A curated list of AI agents, agent skills, and Model Context Protocol (MCP) serv
 - [Curated Lists](#curated-lists)
 - [Communities & Organizations](#communities--organizations)
 - [Hebrew Language Resources](#hebrew-language-resources)
+- [Careers & Jobs](#careers--jobs)
+- [Dashboards](#dashboards)
 - [Economics & Statistics](#economics--statistics)
 - [Finance & Banking](#finance--banking)
 - [Government & Open Data](#government--open-data)
@@ -22,10 +24,12 @@ A curated list of AI agents, agent skills, and Model Context Protocol (MCP) serv
 - [Insurance](#insurance)
 - [Legal](#legal)
 - [Library & Archives](#library--archives)
+- [Plugins](#plugins)
 - [Real Estate & Land](#real-estate--land)
 - [Safety & Emergency](#safety--emergency)
 - [Shopping & Retail](#shopping--retail)
 - [Transportation](#transportation)
+- [Voice Agents](#voice-agents)
 - [Weather & Environment](#weather--environment)
 
 <!-- INDEX_END -->
@@ -122,6 +126,16 @@ Search Israeli restaurants, check availability across date ranges, and get booki
 
 ---
 
+## [iCount Skill](https://github.com/Tura2/icount-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/Tura2/icount-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Tura2/icount-skill)
+
+Agent skill for iCount — Israeli invoicing and accounting platform
+
+**Author:** [Tura2](https://github.com/Tura2)
+
+---
+
 ## [Rail IL Skill](https://github.com/lirantal/skill-railil)
 
 ![GitHub stars](https://img.shields.io/github/stars/lirantal/skill-railil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/skill-railil)
@@ -180,6 +194,26 @@ Curated AI agent skills for Israeli developers — an open-source collection of 
 # Curated Lists
 
 Community-maintained collections of Israeli AI agent resources
+
+## [Claude Israel](https://github.com/danielrosehill/Claude-Israel)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Claude-Israel?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Israel)
+
+Index of Claude / Claude Code projects with an Israel focus.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+## [Awesome Open Source Israel](https://github.com/lirantal/awesome-opensource-israel)
+
+![GitHub stars](https://img.shields.io/github/stars/lirantal/awesome-opensource-israel?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/awesome-opensource-israel)
+
+Awesome list of open source projects created by Israeli developers — broader than AI, but includes many AI-adjacent projects.
+
+**Author:** [lirantal](https://github.com/lirantal)
+
+---
 
 ## [Awesome Agent Skills Israel](https://github.com/alexpolonsky/awesome-agent-skills-israel)
 
@@ -313,6 +347,26 @@ Access to Israeli economic data from the Central Bureau of Statistics (CBS)
 # Finance & Banking
 
 Banking transactions, financial analysis, and economic data
+
+## [Invoice Extractor](https://github.com/gil-hue/invoice-extractor)
+
+![GitHub stars](https://img.shields.io/github/stars/gil-hue/invoice-extractor?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gil-hue/invoice-extractor)
+
+AI-powered extractor for Israeli invoices.
+
+**Author:** [gil-hue](https://github.com/gil-hue)
+
+---
+
+## [Payroll](https://github.com/moshe084/payroll)
+
+![GitHub stars](https://img.shields.io/github/stars/moshe084/payroll?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/moshe084/payroll)
+
+Israeli payroll tool with AI assistance.
+
+**Author:** [moshe084](https://github.com/moshe084)
+
+---
 
 ## [IL Bank MCP](https://github.com/glekner/il-bank-mcp)
 
@@ -840,9 +894,95 @@ Access to Israeli Meteorological Service data
 
 ---
 
+# Careers & Jobs
+
+AI tools for job hunting and career monitoring in the Israeli market.
+
+## [Job Hunt AI](https://github.com/ayhambd12/job-hunt-ai)
+
+![GitHub stars](https://img.shields.io/github/stars/ayhambd12/job-hunt-ai?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ayhambd12/job-hunt-ai)
+
+AI-powered job hunting assistant.
+
+**Author:** [ayhambd12](https://github.com/ayhambd12)
+
+---
+
+## [Israeli Job Scanner](https://github.com/benkleinben-pixel/israeli-job-scanner)
+
+![GitHub stars](https://img.shields.io/github/stars/benkleinben-pixel/israeli-job-scanner?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/benkleinben-pixel/israeli-job-scanner)
+
+Scanner for Israeli job listings.
+
+**Author:** [benkleinben-pixel](https://github.com/benkleinben-pixel)
+
+---
+
+## [Develeap BDR Job Monitor](https://github.com/DoriKafri/develeap-bdr-job-monitor)
+
+![GitHub stars](https://img.shields.io/github/stars/DoriKafri/develeap-bdr-job-monitor?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/DoriKafri/develeap-bdr-job-monitor)
+
+Job monitor for Develeap BDR roles.
+
+**Author:** [DoriKafri](https://github.com/DoriKafri)
+
+---
+
+# Dashboards
+
+AI-powered dashboards with an Israeli focus.
+
+## [News Dashboard](https://github.com/avivbaramamirim-crypto/news-dashboard)
+
+![GitHub stars](https://img.shields.io/github/stars/avivbaramamirim-crypto/news-dashboard?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/avivbaramamirim-crypto/news-dashboard)
+
+AI-powered news dashboard.
+
+**Author:** [avivbaramamirim-crypto](https://github.com/avivbaramamirim-crypto)
+
+---
+
+# Plugins
+
+Claude Code and agent plugins for Israeli services.
+
+## [Deep Value TASE Plugin](https://github.com/deepvalueinvesting/deep-value-tase-plugin)
+
+![GitHub stars](https://img.shields.io/github/stars/deepvalueinvesting/deep-value-tase-plugin?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/deepvalueinvesting/deep-value-tase-plugin)
+
+Deep-value investing plugin for the Tel Aviv Stock Exchange (TASE).
+
+**Author:** [deepvalueinvesting](https://github.com/deepvalueinvesting)
+
+---
+
+# Voice Agents
+
+Voice-enabled AI agents for Israeli use cases.
+
+## [Voxione](https://github.com/voxiproxiv1-blip/voxione)
+
+![GitHub stars](https://img.shields.io/github/stars/voxiproxiv1-blip/voxione?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/voxiproxiv1-blip/voxione)
+
+Voice AI agent project.
+
+**Author:** [voxiproxiv1-blip](https://github.com/voxiproxiv1-blip)
+
+---
+
 # Other Projects
 
 Projects that need categorization.
+
+## [Quantum Pinuy Binuy Analyzer](https://github.com/hemichaeli/quantum-pinuy-binuy-analyzer)
+
+![GitHub stars](https://img.shields.io/github/stars/hemichaeli/quantum-pinuy-binuy-analyzer?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/hemichaeli/quantum-pinuy-binuy-analyzer)
+
+Analyzer for Israeli pinuy-binuy (evacuation-reconstruction) urban renewal projects.
+
+**Author:** [hemichaeli](https://github.com/hemichaeli)
+
+---
 
 ## [Asher MCP](https://github.com/shlomiuziel/asher-mcp)
 
