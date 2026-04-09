@@ -339,6 +339,8 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 
 - [Dicta (dicta.org.il)](https://dicta.org.il/) — Israeli center for the analysis of Hebrew texts; open-source Hebrew NLP models, datasets, and tools (including DictaLM and OCR for Hebrew).
 - [Open Hebrew LLM Leaderboard (Hugging Face)](https://huggingface.co/blog/leaderboard-hebrew) — Community leaderboard evaluating LLMs on Hebrew language tasks.
+- [RubyBot (rubybot.co.il)](https://rubybot.co.il/) — Hebrew-native AI chatbot.
+- [PolyLM (polylm.com)](https://www.polylm.com/) — Hebrew-native AI assistant / LLM product.
 
 ## [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models)
 
