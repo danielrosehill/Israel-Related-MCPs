@@ -11,7 +11,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 ## Contents
 
 - **Projects:** [AI Agents](#ai-agents) · [Agent Skills](#agent-skills) · [Skills & Frameworks](#agent-skills--frameworks) · [Curated Lists](#curated-lists)
-- **Ecosystem:** [Communities](#communities--organizations) · [Government](#government-bodies) · [Centers of Excellence](#centers-of-excellence) · [Conferences](#conferences--events) · [Inference Providers](#inference-providers--local-clouds) · [Startups](#startup-ecosystem)
+- **Ecosystem:** [Communities](#communities--organizations) · [Government](#government-bodies) · [Centers of Excellence](#centers-of-excellence) · [Research Orgs](#research-organizations) · [Education](#education) · [VCs & Financing](#ai-focused-vcs--financing) · [Conferences](#conferences--events) · [Inference Providers](#inference-providers--local-clouds) · [Startups](#startup-ecosystem)
 - **Hebrew & Language:** [Hebrew Language Resources](#hebrew-language-resources)
 - **By Domain:** [Finance](#finance--banking) · [Gov Data](#government--open-data) · [Gov Services](#government-services) · [Healthcare](#healthcare--medical) · [Legal](#legal) · [Insurance](#insurance) · [Real Estate](#real-estate--land) · [Safety](#safety--emergency) · [Shopping](#shopping--retail) · [Transport](#transportation) · [Weather](#weather--environment) · [Economics](#economics--statistics) · [Library](#library--archives) · [Careers](#careers--jobs) · [Dashboards](#dashboards) · [Plugins](#plugins) · [Voice](#voice-agents)
 
@@ -139,6 +139,42 @@ Israeli government agencies and national programs relevant to AI.
 Academic and research centers focused on AI and data science in Israel.
 
 - [Israel Data Science & AI Initiative — Technion (idsai.net.technion.ac.il)](https://idsai.net.technion.ac.il/) — Technion's interdisciplinary data science and AI research center.
+
+*To add: additional university-hosted AI centers (Hebrew U, Tel Aviv U, BGU, Bar-Ilan, Reichman, Weizmann).*
+
+---
+
+# Research Organizations
+
+Independent and institutional AI research organizations in Israel.
+
+*To add: non-academic AI research institutes, think tanks, and national labs.*
+
+---
+
+# Education
+
+AI-related education pathways in Israel — continuing professional development, postgraduate programs, and standalone courses.
+
+## CPD (Continuing Professional Development)
+
+*To add: professional certifications, bootcamps, and CPD tracks for working professionals.*
+
+## Postgraduate
+
+*To add: MSc, PhD, and executive programs in AI / ML / data science at Israeli universities.*
+
+## Courses
+
+*To add: standalone online and in-person courses (Hebrew and English) on AI/ML topics.*
+
+---
+
+# AI-Focused VCs & Financing
+
+Venture capital funds, accelerators, and financing vehicles with a dedicated AI focus in Israel.
+
+*To add: Israeli VCs, micro-funds, and accelerators with an AI investment thesis.*
 
 ---
 
