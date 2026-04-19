@@ -124,6 +124,7 @@ Property data, land tenders, and real estate information
 | [Remy MCP (Israeli Land Authority)](https://github.com/barvhaim/remy-mcp) | Access to Israeli Land Authority public tender data | ![](https://img.shields.io/github/stars/barvhaim/remy-mcp?style=social) |
 | [Hommie](https://github.com/Zakiaia/hommie) | AI-guided real estate decision assistant for Israeli apartment buyers | ![](https://img.shields.io/github/stars/Zakiaia/hommie?style=social) |
 | [Find Apartments](https://github.com/cxt9/find-apartments) | Claude Code plugin searching Israeli rental platforms with Telegram notifications | ![](https://img.shields.io/github/stars/cxt9/find-apartments?style=social) |
+| [Yad2 Semantic Search](https://github.com/poovarasan011/yad2-semantic-search) | Natural-language real-estate search over Yad2 listings using ML embeddings and vector search | ![](https://img.shields.io/github/stars/poovarasan011/yad2-semantic-search?style=social) |
 
 
 ## Safety & Emergency
