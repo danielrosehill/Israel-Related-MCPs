@@ -8,7 +8,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
-*Last updated: 2026-04-09*
+*Last updated: 2026-04-23*
 
 ## Contents
 
